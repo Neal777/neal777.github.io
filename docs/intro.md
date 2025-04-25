@@ -1,2 +1,2 @@
-# Getting started
-Getting started
+# Introduction
+Hello!
