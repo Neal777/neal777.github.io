@@ -1,0 +1,17 @@
+site_name: My Documentation Site
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Getting started: getting_started.md
+  - Introduction: intro.md
+  - How-to guides:
+      - How-to guide template: how_to_guide_template.md
+  - Explanations:
+      - Explanation template: explanation_template.md 
+  - Reference:
+      - Reference template: reference_template.md
+  - Tutorials:
+      - Tutorial template: tutorial_template.md
+
