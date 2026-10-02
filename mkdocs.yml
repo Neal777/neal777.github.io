@@ -1,4 +1,7 @@
 site_name: My Documentation Site
+site_url: https://neal777.github.io/neal777.guthub.io/
+
+site_name: My Documentation Site
 
 theme:
   name: material
@@ -26,7 +29,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-        
+
 nav:
   - Home: index.md
   - Getting started: getting_started.md
